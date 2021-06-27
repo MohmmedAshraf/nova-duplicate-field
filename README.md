@@ -42,6 +42,7 @@ Please see [CONTRIBUTING](.github/CONTRIBUTING.md) for details.
 
 ## Credits
 
+- [jackabox](https://github.com/jackabox)
 - [Mohamed Ashraf](https://github.com/MohmmedAshraf)
 - [All Contributors](../../contributors)
 

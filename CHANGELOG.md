@@ -1,6 +1,6 @@
 # Changelog
 
-All notable changes to `nova-push-notification` will be documented in this file
+All notable changes to `nova-duplicate-field` will be documented in this file
 
 ## 1.0.0
 
