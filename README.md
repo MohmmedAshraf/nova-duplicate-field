@@ -24,7 +24,7 @@ DuplicateField::make('Duplicate')
         'id' => $this->id, // id of record
         'model' => 'App\Models\Specialism', // model path
         'except' => ['status'], // an array of fields to not replicate (nullable).
-        'override' => ['status' => 'pending'] // an array of fields and values which will be set on the modal after duplicating (nullable).
+        'override' => ['status' => 'pending'], // an array of fields and values which will be set on the modal after duplicating (nullable).
         'resource' => 'specialisms', // resource url
         'relations' => ['one', 'two'], // an array of any relations to load (nullable).
     ]),
